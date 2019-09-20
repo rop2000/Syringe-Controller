@@ -1,0 +1,10 @@
+general: {comport: COM3, jogamt: 10.0}
+syringes:
+- {amt: 0.0, notes: Test notes 1, rate: 1.0, retractAmt: 0.0, retractBool: true, syringeSize: 3.46}
+- {amt: 0.0, notes: 'Multi-line notes are supported
+
+
+    This is another line.', rate: 2.0, retractAmt: 0.0, retractBool: true, syringeSize: 3.46}
+- {amt: 0.0, notes: '', rate: 3.0, retractAmt: 0.0, retractBool: true, syringeSize: 3.46}
+- {amt: 0.0, notes: '', rate: 4.0, retractAmt: 0.0, retractBool: true, syringeSize: 3.46}
+- {amt: 0.0, notes: '', rate: 5.0, retractAmt: 0.0, retractBool: true, syringeSize: 3.46}

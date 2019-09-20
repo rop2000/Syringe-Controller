@@ -1,0 +1,20 @@
+missing module named resource - imported by posix, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named posix - imported by os, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named org - imported by pickle, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named _winreg - imported by platform, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named 'java.lang' - imported by platform, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named termios - imported by tty, serial.serialposix, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named 'org.python' - imported by copy, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\timh2\Documents\Arduino\adamSlider-GUI\electroSpinning.py
+missing module named fcntl - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
